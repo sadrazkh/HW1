@@ -15,8 +15,12 @@ namespace HW1_SadraZadehKhameneh
             {
                 Number[i] = Convert.ToInt32(Console.ReadLine());
             }
-            Console.WriteLine(Class.Sort_10_number.FindMaxInTenNumber(Number));
-            Console.ReadKey();
+            Console.WriteLine("Max is : {0}\n\n",Class.Sort_10_number.FindMaxInTenNumber(Number));
+
+            
+
+            Console.ReadLine();
+
         }
     }
 }
