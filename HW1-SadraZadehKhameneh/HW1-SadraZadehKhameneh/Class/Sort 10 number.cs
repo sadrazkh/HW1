@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HW1_SadraZadehKhameneh
+namespace HW1_SadraZadehKhameneh.Class
 {
-    class Program
+    class Sort_10_number
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }
