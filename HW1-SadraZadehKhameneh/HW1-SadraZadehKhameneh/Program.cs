@@ -17,7 +17,8 @@ namespace HW1_SadraZadehKhameneh
             }
             Console.WriteLine("Max is : {0}\n\n",Class.Sort_10_number.FindMaxInTenNumber(Number));
 
-            
+            Console.WriteLine("Date is : {0}", Class.NowDate.DateReport());
+         
 
             Console.ReadLine();
 
